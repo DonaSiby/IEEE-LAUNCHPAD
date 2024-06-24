@@ -1,8 +1,9 @@
-# Full Name 
+# Sadik Ali K
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Myself Sadik Ali from Thrissur kerala, I am an MBA graduate specialised in HRM  and MArketing, I have done projects in south indian bank and paris dry cleaning industry in which south indian bank project was regarding their marketing in which how online marketing helps or influence in launching new products and in paris dry cleaning industry it was about human resource regarding project in which it is related to organisational effectiveness. My internship was at mars exploration pvt limited regarding hr internship and currenlty doing a training/internship at flipkart in their operations. I have completed some other add on course regarding project management, CRM, logistics fleet inventory management, I am a person who is optimistic and have mind of working deligently, My ambition is to become a Manager in a reutated organisation 
+
 
 
 ## Portfolio Highlights
@@ -11,8 +12,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| A STUDY ON EFFECTIVENESS OF ORGANIZATIONAL CULTURE IN PARIS DRY CLEANING AND LAUNDRY  | Project was regarding how the total quality management in the organization is going and also about the work culture and work life in which how it is in this organization.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| A STUDY ON IMPACT OF ONLINE ADVERTISEMENT IN LAUNCHING OF NEW PRODUCTS AT SOUTH INDIAN BANK  | In this project it shows through which medium people get most of the information regarding their advertisement regarding launching of new products at south indian bank.                                            | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

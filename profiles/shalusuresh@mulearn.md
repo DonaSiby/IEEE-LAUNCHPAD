@@ -1,8 +1,8 @@
-# Full Name 
+SHALU SURESH
 
-### About Me
+##ABOUT ME
 
-> write about your self .................. (minimum 200 Characters)
+HI MY NAME IS SHALU SURESH. I AM LIVING IN THIRUVALLA A SMALL TOWN NEAR PATHANAMTHITTA.I AM BSC COMPUTER SCIENCE GRADUATE PASSED OUT IN 2019.
 
 
 ## Portfolio Highlights
@@ -11,12 +11,15 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **ONLINE TRAVEL BOOKING PLATFORM**  | A WEBSITE TO BOOK YOUR TRAVEL BOOKING AND YOUR DESTINATION PLACES                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- FOR ME AS A LEADER IT IS MR APJ ABDUL KALAM WHO INSPIRED ME.
+ENCOURAGES SUBORDINATE 
+ACCEPT THE FAILURE
+ACCEPT THE MISTAKES OF COLLEAGUES.RECTIFYING IT
 
 #### Networking:
 
@@ -24,7 +27,8 @@
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- AS A COMPUTER SCIENCE STUDENT I WOULD LIKE TO PURSUE A CARRER IN CYBER SECURITY AND DEVEOPS.
+IN EXPANDING NETWORK AND DATA ENSURING SECUIRTY TO THE CUSTOMER IS IMPORTANT.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 

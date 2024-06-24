@@ -1,8 +1,8 @@
-# Full Name 
+Gowri Nandana G P
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Pursuing B Tech IT 
 
 
 ## Portfolio Highlights

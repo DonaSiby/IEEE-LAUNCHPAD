@@ -1,8 +1,8 @@
-# Full Name 
+# Nandana Suresh
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+With a passion for problem-solving and a desire to apply my theoretical knowledge in a practical setting, I am excited to explore opportunities in the engineering field.
 
 
 ## Portfolio Highlights
@@ -16,7 +16,7 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+Being the chairperson of IEEE SB ASIET, I have the oppurtunity to work and associate with every volunteers, guiding them and inspiing them has been given me utmost joy.
 
 #### Networking:
 

@@ -1,8 +1,8 @@
-# Full Name 
-
+# NAVEEN SANTHOSH
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>  IAM NAVEEN SANTHOSH STUDIED AT YMBC KOTHAMANGALAM,FINSHED MY GRADUATION IN COMPUTER APLLICATION AT 2024
+
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| TEXT TO SPEECH CONVERTER  | PYTHON BASED PROJECT WHICH CAN CONVERT THE TEXT INTO MALE AND FEMALE VOICE CAN CONTOL THE SPEED                                               | [Hosted Link 1](https://github.com/naveencule/TEXT-TO-SPEECH.git)    |             |
+| DRIVER HIRING  |                                               | [Hosted Link 2](https://github.com/naveencule/Driver-Hiring.git)    |              |
 
 #### Leadership and Influence:
 
@@ -52,7 +52,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

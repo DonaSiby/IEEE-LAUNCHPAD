@@ -1,8 +1,8 @@
-# Full Name 
+# Sarada Devi M
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>My name is Sarada Devi M. I'm currently pursing MBA in Human Resource Management at Indira Gandhi National Open Unviersity and have completed Bachelors Degree in Computer Applications from Mahathma Gandhi University. I have also completed other courses like Human Resource Management, HR Database Management System, Power BI, Using Survey Monkey for Surveys and Result Analysis etc to enhance my skill sets.
 
 
 ## Portfolio Highlights

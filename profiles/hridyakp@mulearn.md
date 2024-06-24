@@ -1,8 +1,8 @@
-# Full Name 
+# Hridya k p 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am currently a final year btech degree student from Holy grace academy of engineering and specialized in computer science stream.
 
 
 ## Portfolio Highlights
@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **AuthentiQ**  | A integrated platform that detects fake currency,fake website,fake news.           https://github.com/Hridyakp21/Hridyakp21                                 | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:

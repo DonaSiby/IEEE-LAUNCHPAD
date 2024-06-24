@@ -1,8 +1,8 @@
-# Full Name 
+# Anjana K Das 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Currently I am completed my btech in computer science from Universal Engineering College which is affliated by A P J Abdul Kalam Technical university.
 
 
 ## Portfolio Highlights

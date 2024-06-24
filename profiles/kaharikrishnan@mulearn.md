@@ -2,8 +2,13 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> A Computer Science Engineering student, I possess a strong foundation
+in computer science principles and a passion for solving complex problems through
+innovative solutions. I have developed expertise in programming language C, Java
+and have gained hands-on experience in software development through internships
+and coursework. Eager to apply my knowledge and skills to real-world challenges, I
+am seeking opportunities to contribute to dynamic teams and continue my growth as
+a computer science professional
 
 ## Portfolio Highlights
 

@@ -1,8 +1,7 @@
-# Full Name 
-
+# Jinu J
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My self i am Jinu J i am doing full stack developer Django in orisys academy for skill development in trivandrum.
 
 
 ## Portfolio Highlights

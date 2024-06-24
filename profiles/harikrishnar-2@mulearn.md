@@ -1,8 +1,8 @@
-# Full Name 
+# HARIKRISHNA R 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a self motivated Electrical Engineering Student.
 
 
 ## Portfolio Highlights

@@ -1,8 +1,10 @@
-# Full Name 
+# Gautham krishna u
 
-### About Me
+### About me
 
-> write about your self .................. (minimum 200 Characters)
+> My slef iam Gautham krishna u Iam from kerala,Thiruvanathapuram.
+i had completed my graduation from JNTUK university Kakinada. My stream is petroleum technology
+My graduation year was 2023.
 
 
 ## Portfolio Highlights
